@@ -2,11 +2,7 @@ import torch
 import torch.nn as nn
 
 '''
-Conv2d
-BatchNorm2d
-ReLU
-Linear
-Sigmoid
+https://arxiv.org/abs/2112.05561
 '''
 
 class GAM(nn.Module):
